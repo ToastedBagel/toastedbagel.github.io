@@ -2,3 +2,4 @@ theme: jekyll-theme-midnight
 permalink: /:year/:month/:day/:title/
 timezone: America/New_York
 title: TimDC
+show_downloads: false
