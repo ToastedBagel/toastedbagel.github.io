@@ -2,6 +2,9 @@ Page data would go here, IF I HAD ANY
 
 Here's some text
 
+[About]({{ site.baseurl }}{% link about.md %})
+
+
 Here's a list of posts:
 
 <ul>
