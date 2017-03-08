@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 permalink: /:year/:month/:day/:title/
+timezone: America/New_York
+title: TimDC
